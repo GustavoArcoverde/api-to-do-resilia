@@ -1,0 +1,4 @@
+const bd = {
+    "usuarios": [],
+    "tarefas": []
+}
